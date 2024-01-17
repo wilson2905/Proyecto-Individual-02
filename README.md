@@ -48,8 +48,6 @@ correctamente
 
 ### Paso 2: EDA
 
-F7F979
-
 - Normalización de tipos de datos y limpieza.
 - Visualización y análisis inicial.
 - Creación de `df_final_consumo.csv` para su uso en Power BI.
@@ -115,11 +113,6 @@ Mediante el análisis de Base de Datos Proporcionadas de Siniestros viales, se p
 
 * [Repositorio de GitHub](https://github.com/wilson2905/ProyectoIndividual02)
 * [Linkedin](https://www.linkedin.com/in/jorge-fernando-abraham-451a44290/)
-
-### Otros Enlaces
-
-* [Enlace a Dashboard Interactivo](https://www.novypro.com/project/informe-de-siniestros-viales-en-la-ciudad-de-buenos-aires---2016-a-2021)
-* [Enlace a Streamlit](https://proyectoindividual2jeremiaspombo.streamlit.app/)
 
 ***
 
