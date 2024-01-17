@@ -48,8 +48,6 @@ correctamente
 
 ### Paso 2: EDA
 
-F7F979
-
 - Normalización de tipos de datos y limpieza.
 - Visualización y análisis inicial.
 - Creación de `df_final_consumo.csv` para su uso en Power BI.
